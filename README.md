@@ -2,7 +2,7 @@
 
 Small JavaScript utility library.
 
-![pscode library logo](https://imgur.com/a/NuUDWkD)
+![pscode library logo](https://i.imgur.com/fqVlmbr.jpeg)
 
 ## Contributing
 
