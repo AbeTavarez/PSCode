@@ -2,6 +2,7 @@
 
 Small JavaScript utility library.
 
+![pscode library logo](https://imgur.com/a/NuUDWkD)
 
 ## Contributing
 
@@ -28,3 +29,9 @@ If you want to contribute to the project follow these steps:
     10. Add, commit and push your code!
 
     11. Head over back to your GitHub repo and click on "Pull request" -> "Create Pull request", create the pull request and you're done. Congrats!
+
+## Track the project
+
+Check out the project's progress here:
+
+[GitHub Project Link](https://github.com/users/AbeTavarez/projects/7)
